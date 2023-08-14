@@ -16,7 +16,7 @@ const HeroBanner = ({ heroBanner }) => {
         />
 
         <div>
-          <Link href={`/`}>
+          <Link href={`/product/headphones`}>
             <button type="button">{heroBanner.buttonText}</button>
           </Link>
 
